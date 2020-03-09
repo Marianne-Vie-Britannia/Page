@@ -1,0 +1,1 @@
+{"version":3,"sources":["Content/Blockchain/Blockchain.js"],"names":["Blockchain"],"mappings":"0GAAA,2BAKeA,UAHf,WACE,OAAO","file":"static/js/6.e0d3c9cb.chunk.js","sourcesContent":["import React from \"react\";\n\nfunction Blockchain(){\n  return <h3>Under Constraction</h3>\n}\nexport default Blockchain"],"sourceRoot":""}

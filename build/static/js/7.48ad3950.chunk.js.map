@@ -1,0 +1,1 @@
+{"version":3,"sources":["Content/Music/Music.js"],"names":["Music"],"mappings":"0GAAA,2BAKeA,UAHf,WACE,OAAO","file":"static/js/7.48ad3950.chunk.js","sourcesContent":["import React from \"react\";\n\nfunction Music(){\n  return <h3>Under Constraction</h3>\n}\nexport default Music"],"sourceRoot":""}

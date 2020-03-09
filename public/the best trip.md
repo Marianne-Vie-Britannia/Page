@@ -1,3 +1,0 @@
-the best trip 
-
-last weekend I went to Sydney. before I get there, mind I pictured a pale town with retired baby boomers and there chairs in my narrow. But when I got there ,I realized I made a mistake. the strong breeze comes from the ocean created a great sound, blowing my fatigues away. the town is beautiful, the streets are clean. downtown Victoria is never like this. if you are looking for peace and cleanness, Sydney  is for you.
